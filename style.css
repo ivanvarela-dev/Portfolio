@@ -11,3 +11,7 @@ input, textarea{
 footer ul li img {
     width: 3vw;
 }
+
+article {
+    background-color: lightgray;
+}
